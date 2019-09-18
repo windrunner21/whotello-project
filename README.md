@@ -13,3 +13,11 @@ _Imran Hajiyev (Project Manager)_ => Responsible for: Flutter Application, Conne
 _Bayram Muradov (Data Scientist)_ => Responsible for: Firebase Database, ChatBotAPI, Statistics
 
 _Alina Zhumasheva (Full-stack Dev)_ => Responsible for: ReactJS powered web-site
+
+# Links to team's GitHub profiles:
+
+_Imran Hajiyev:_ https://github.com/windrunner21
+
+_Bayram Muradov:_ https://github.com/muradovb
+
+_Alina Zhumasheva:_ https://github.com/alinazhumasheva
