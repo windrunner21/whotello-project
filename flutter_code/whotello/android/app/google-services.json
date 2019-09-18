@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "919197761161",
+    "firebase_url": "https://whotello-project.firebaseio.com",
+    "project_id": "whotello-project",
+    "storage_bucket": "whotello-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919197761161:android:72379f477c2068c9",
+        "android_client_info": {
+          "package_name": "com.example.whotello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919197761161-2bs08kgdjq0f566ar4qklk25gc2qjub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgheyT125Db0yix6tishBeqowNb33R_Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919197761161-2bs08kgdjq0f566ar4qklk25gc2qjub9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "919197761161-edtd7j2ieoa97pkj1sbvlu1c3lsdeoss.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.whotello"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
