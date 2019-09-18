@@ -4,7 +4,7 @@ _Whotello mobile_ application built on Flutter resides inside flutter_code/whote
 
 _Whotello website_ built using React is temporarily unavailable. Will be added soon.
 
-_ChatBotAPI_ is temporarily unavailable. Will be added soon.
+_ChatBotAPI_ can be accessed via this link: https://github.com/muradovb/whotello-chatbot-api
 
 Project documents reside in the Reports folder
 
