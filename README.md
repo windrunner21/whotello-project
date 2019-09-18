@@ -2,7 +2,9 @@
 
 _Whotello mobile_ application built on Flutter resides inside flutter_code/whotello folder
 
-_Whotello website_ built using React was temporary removed from the GitHub repository
+_Whotello website_ built using React is temporarily unavailable. Will be added soon.
+
+_ChatBotAPI_ is temporarily unavailable. Will be added soon.
 
 Project documents reside in the Reports folder
 
