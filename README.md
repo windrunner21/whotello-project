@@ -8,6 +8,8 @@ Project documents reside in the Reports folder
 
 # Project members:
 
-Imran Hajiyev (Project Manager) => Responsible for: Flutter Application, Connection to AC/TV via mobile app
-Bayram Muradov (Data Scientist) => Responsible for: Firebase Database, ChatBotAPI, Statistics
-Alina Zhumasheva (Full-stack Dev) => Responsible for: ReactJS powered web-site
+_Imran Hajiyev (Project Manager)_ => Responsible for: Flutter Application, Connection to AC/TV via mobile app
+
+_Bayram Muradov (Data Scientist)_ => Responsible for: Firebase Database, ChatBotAPI, Statistics
+
+_Alina Zhumasheva (Full-stack Dev)_ => Responsible for: ReactJS powered web-site
